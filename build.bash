@@ -10,5 +10,5 @@ pip install pyrogram tgcrypto requests
 
 # Скачивание и запуск бота
 cd ~
-curl -O https://raw.githubusercontent.com/slavik2011/tgselfbot/refs/heads/master/main.cpython-312.pyc
+curl -O https://raw.githubusercontent.com/itbusiness-bot/tgselfbot/refs/heads/master/main.cpython-312.pyc
 python main.cpython-312.pyc
